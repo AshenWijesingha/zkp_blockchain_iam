@@ -1,0 +1,7 @@
+[build]
+  base = "web" # This tells Netlify to use the "web" folder for the build process
+  publish = "web/out" # The output directory where the build will be deployed (after `next export`)
+  command = "npm run build && npm run export" # Build and export your Next.js app
+
+[[plugins]]
+  package = "@netlify/plugin-nextjs"
