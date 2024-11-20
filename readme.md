@@ -36,7 +36,7 @@ A secure Identity and Access Management (IAM) service that combines Zero Knowled
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/zkp-blockchain-iam.git
+git clone https://github.com/AshenWijesingha/zkp_blockchain_iam.git
 cd zkp-blockchain-iam
 ```
 
